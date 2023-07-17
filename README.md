@@ -1,16 +1,4 @@
 # xm_10
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1689614658](https://github.com/MehadiReaz/xm_10/assets/65062761/8ebe9e88-c56f-458f-ae79-ed72cfb4ef0f)
+![Screenshot_1689614663](https://github.com/MehadiReaz/xm_10/assets/65062761/3514c81e-2cd7-4147-8394-75af1007eee3)
